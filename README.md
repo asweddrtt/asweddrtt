@@ -21,4 +21,4 @@ Bringing AI into mobile apps: smarter features, on-device + cloud models,
 and agent-style workflows.
 
 ## 📫 Reach me
-[LinkedIn](https://linkedin.com/in/YOUR-LINK) · Alimahmoud55530@gmail.com
+[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ali-mahmoud-26b89b22b/) · Alimahmoud55530@gmail.com
