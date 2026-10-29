@@ -11,9 +11,9 @@ building apps where LLMs do real work, not just chat.
 - **Learning now:** LLM APIs, prompt engineering, RAG, AI agents, Python
 
 ## 🚀 Featured projects
-- **[Bulkr](https://github.com/asweddrtt/bulkr-app)**: fitness & nutrition app
+- **[Bulkr](https://github.com/Ali-Aswedrt-Apps/bulkr-app)**: fitness & nutrition app
   with meal tracking, challenges, subscriptions, and English/Arabic support.
-- **[ResQ](https://github.com/asweddrtt/resq-app)**: animal rescue & adoption
+- **[ResQ](https://github.com/Ali-Aswedrt-Apps/resq-app)**: animal rescue & adoption
   app connecting users, shelters, and clinics, with Stripe payments.
 
 ## 🧠 Currently working on
